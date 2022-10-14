@@ -1,0 +1,29 @@
+.logo{
+    position:relative;
+    top: 8px;
+    height: 80px;
+    width: 105px;
+    cursor: pointer;
+}
+.header-title{
+    position: relative;
+    top: 40px;
+    left:25px;
+    font-family: "Brush Script MT", cursive;
+    font-style: italic;
+    font-size: 64px;
+    color: hsl(305, 56%, 59%);
+}
+.btnMain{
+    font-size: 20px;
+}
+.btnMain:hover{
+    color: #277dff;
+}
+.modal-footer button{
+    background-color: #277dff;
+    color:white
+}
+th{
+    color:#277dff;
+}
